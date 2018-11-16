@@ -8,3 +8,6 @@ document.body.appendChild(element);
 
 element.style.textAlign = 'center';
 ul.style.textAlign = 'left';
+
+document.body.appendChild(element);
+
